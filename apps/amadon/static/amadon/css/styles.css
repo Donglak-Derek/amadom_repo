@@ -1,0 +1,16 @@
+h1{
+	color: lightsteelblue;
+}
+
+#wrapper{
+	width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+
+table{
+	width: 400px;
+	border: 1px solid gray;
+}
